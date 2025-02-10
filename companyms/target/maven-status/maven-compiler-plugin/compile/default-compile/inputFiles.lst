@@ -1,0 +1,10 @@
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\clients\ReviewClient.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\Company.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\CompanyController.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\CompanyRepository.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\CompanyService.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\dto\ReviewMessage.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\impl\CompanyServiceImpl.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\messaging\RabbitMQConfiguration.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\company\messaging\ReviewMessageConsumer.java
+C:\Projects\Java Projects\microservices-tutorial\companyms\src\main\java\com\microservice\companyms\CompanymsApplication.java
