@@ -3,6 +3,7 @@ This project is a microservices-based application built using Java and Spring Bo
 
 ## Tech Stack
 **Backend:** Java, Spring Boot (Spring Web, Spring Data JPA, Spring Boot Actuator), Spring Cloud (Eureka, Gateway, Config Server), OpenFeign, RabbitMQ, Docker, Docker Compose, Resilience4j, Zipkin, Micrometer
+
 **Database:** PostgreSQL, pgAdmin
 
 ## Features
